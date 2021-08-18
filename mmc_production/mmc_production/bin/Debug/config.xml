@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <xwd>
+    <M_USERNO>admin</M_USERNO>
+    <M_MACHINENO>HW-Device-Group</M_MACHINENO>
+    <M_MO>QH-MO201605190001-1401</M_MO>
+  </xwd>
+  <print_location>D:\temp</print_location>
+  <productdata>
+    <ntc>1</ntc>
+    <battery>Maxwell</battery>
+    <hw_version>B1</hw_version>
+    <model_num>66</model_num>
+    <work_Location>F</work_Location>
+    <factory>X</factory>
+  </productdata>
+</configuration>
