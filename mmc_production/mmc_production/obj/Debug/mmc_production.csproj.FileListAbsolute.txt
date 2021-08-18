@@ -1,1 +1,0 @@
-D:\code\visual studio 2015\c_sharp\mmc_production\mmc_production\bin\Debug\mmc_production.exe.config
